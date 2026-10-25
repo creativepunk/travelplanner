@@ -1,0 +1,155 @@
+{
+ "lko@night": [
+  "Lucknow night",
+  "Rumi Darwaza night",
+  "Bara Imambara Lucknow",
+  "Bara Imambara",
+  "Lucknow"
+ ],
+ "dmk@night": [
+  "Don Mueang airport",
+  "Don Muang airport terminal",
+  "Don Mueang International Airport"
+ ],
+ "palace@morning": [
+  "Grand Palace Bangkok",
+  "Wat Phra Kaew Bangkok"
+ ],
+ "watpho@morning": [
+  "Wat Pho Bangkok",
+  "Wat Pho reclining Buddha"
+ ],
+ "watarun@day": [
+  "Wat Arun Bangkok",
+  "Wat Arun temple"
+ ],
+ "saitai@evening": [
+  "Southern bus terminal Bangkok",
+  "Sai Tai Mai",
+  "Thailand VIP bus",
+  "Bangkok bus terminal"
+ ],
+ "krabibus@dawn": [
+  "Krabi town",
+  "Krabi town morning",
+  "Krabi"
+ ],
+ "aonang@morning": [
+  "Ao Nang beach",
+  "Ao Nang Krabi"
+ ],
+ "aonang@day": [
+  "Ao Nang beach",
+  "Ao Nang longtail boats"
+ ],
+ "aonang@sunset": [
+  "Ao Nang sunset",
+  "Ao Nang beach evening",
+  "Ao Nang"
+ ],
+ "railay@sunset": [
+  "Railay sunset",
+  "Railay West beach sunset",
+  "Railay beach",
+  "Railay"
+ ],
+ "poda@morning": [
+  "Koh Poda",
+  "Poda island Krabi",
+  "Tup island Krabi"
+ ],
+ "nopparat@morning": [
+  "Nopparat Thara beach",
+  "Nopparat Thara pier"
+ ],
+ "kyn@day": [
+  "Koh Yao Noi",
+  "Ko Yao Noi beach",
+  "Koh Yao Noi island"
+ ],
+ "kyn@sunset": [
+  "Koh Yao Noi sunset",
+  "Ko Yao Noi sunset",
+  "Phang Nga bay sunset",
+  "Ko Yao Noi"
+ ],
+ "hong@morning": [
+  "Koh Hong Krabi",
+  "Hong island lagoon Krabi",
+  "Hong islands Phang Nga"
+ ],
+ "kyy@day": [
+  "Koh Yao Yai",
+  "Ko Yao Yai beach",
+  "Ko Yao Yai"
+ ],
+ "bangrong@morning": [
+  "Bang Rong pier Phuket",
+  "Phang Nga bay longtail boat",
+  "Phang Nga bay speedboat",
+  "Phang Nga Bay"
+ ],
+ "naiharn@day": [
+  "Nai Harn beach",
+  "Nai Harn Phuket",
+  "Nai Harn"
+ ],
+ "oldtown@day": [
+  "Phuket old town",
+  "Thalang road Phuket",
+  "Soi Romanee"
+ ],
+ "oldtown@evening": [
+  "Phuket walking street",
+  "Phuket old town night",
+  "Phuket old town",
+  "Phuket Town"
+ ],
+ "khaorang@morning": [
+  "Khao Rang Phuket",
+  "Phuket town view",
+  "Phuket town",
+  "Phuket City"
+ ],
+ "hkt@day": [
+  "Phuket airport",
+  "Phuket international airport"
+ ],
+ "blr@night": [
+  "Bangalore night",
+  "Vidhana Soudha night",
+  "Bengaluru night",
+  "Vidhana Soudha",
+  "Bangalore"
+ ],
+ "samet@dawn": [
+  "Samet Nangshe sunrise",
+  "Samet Nangshe",
+  "Phang Nga bay sunrise",
+  "Phang Nga Bay"
+ ],
+ "jbond@morning": [
+  "James Bond Island",
+  "Khao Phing Kan",
+  "Ko Tapu"
+ ],
+ "panyee@day": [
+  "Koh Panyee",
+  "Ko Panyi",
+  "Panyee floating village"
+ ],
+ "promthep@sunset": [
+  "Promthep Cape sunset",
+  "Phromthep cape",
+  "Laem Phromthep"
+ ],
+ "tiger@dawn": [
+  "Tiger Cave Temple Krabi",
+  "Wat Tham Suea Krabi"
+ ],
+ "railayE@day": [
+  "Railay East",
+  "Railay beach",
+  "Railay longtail"
+ ]
+}

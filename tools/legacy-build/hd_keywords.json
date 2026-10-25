@@ -1,0 +1,262 @@
+{
+ "lko": [
+  "Lucknow",
+  "Imambara",
+  "Rumi Darwaza"
+ ],
+ "dmk": [
+  "Don Mueang",
+  "Don Muang",
+  "DMK"
+ ],
+ "palace": [
+  "Grand Palace",
+  "Phra Kaew",
+  "Emerald Buddha"
+ ],
+ "watpho": [
+  "Wat Pho",
+  "Wat Po",
+  "Phra Chetuphon",
+  "Reclining Buddha"
+ ],
+ "watarun": [
+  "Wat Arun",
+  "Temple of Dawn",
+  "Arun"
+ ],
+ "yaowarat": [
+  "Yaowarat",
+  "Chinatown"
+ ],
+ "saitai": [
+  "Southern Bus Terminal",
+  "Sai Tai",
+  "bus terminal"
+ ],
+ "krabibus": [
+  "Krabi"
+ ],
+ "aonang": [
+  "Ao Nang",
+  "Aonang"
+ ],
+ "railay": [
+  "Railay",
+  "Railei",
+  "Phra Nang"
+ ],
+ "railayE": [
+  "Railay",
+  "Railei"
+ ],
+ "poda": [
+  "Poda",
+  "Chicken Island",
+  "Ko Kai",
+  "Tup"
+ ],
+ "nopparat": [
+  "Nopparat",
+  "Noppharat"
+ ],
+ "kyn": [
+  "Yao Noi"
+ ],
+ "hong": [
+  "Hong"
+ ],
+ "kyy": [
+  "Yao Yai"
+ ],
+ "bangrong": [
+  "Phang Nga",
+  "Phang-Nga",
+  "Phangnga",
+  "Bang Rong"
+ ],
+ "naiharn": [
+  "Nai Harn",
+  "Nai Han",
+  "Naiharn"
+ ],
+ "oldtown": [
+  "Phuket Town",
+  "Phuket Old Town",
+  "Phuket City",
+  "Thalang",
+  "Old Phuket",
+  "Romanee"
+ ],
+ "khaorang": [
+  "Khao Rang",
+  "Phuket Town",
+  "Phuket City"
+ ],
+ "hkt": [
+  "Phuket International Airport",
+  "Phuket Airport",
+  "Mai Khao"
+ ],
+ "blr": [
+  "Bangalore",
+  "Bengaluru",
+  "Vidhana"
+ ],
+ "samet": [
+  "Samet Nangshe",
+  "Phang Nga",
+  "Phang-Nga"
+ ],
+ "jbond": [
+  "James Bond",
+  "Ko Tapu",
+  "Khao Phing Kan",
+  "Phing Kan"
+ ],
+ "panyee": [
+  "Panyee",
+  "Panyi",
+  "Panyi"
+ ],
+ "promthep": [
+  "Promthep",
+  "Phromthep",
+  "Prom Thep"
+ ],
+ "tiger": [
+  "Tiger Cave",
+  "Tham Suea",
+  "Tham Sua"
+ ],
+ "grid:lko": [
+  "Lucknow",
+  "Imambara",
+  "Rumi Darwaza"
+ ],
+ "grid:dmk": [
+  "Don Mueang",
+  "Don Muang",
+  "DMK"
+ ],
+ "grid:palace": [
+  "Grand Palace",
+  "Phra Kaew",
+  "Emerald Buddha"
+ ],
+ "grid:watpho": [
+  "Wat Pho",
+  "Wat Po",
+  "Phra Chetuphon",
+  "Reclining Buddha"
+ ],
+ "grid:watarun": [
+  "Wat Arun",
+  "Temple of Dawn",
+  "Arun"
+ ],
+ "grid:yaowarat": [
+  "Yaowarat",
+  "Chinatown"
+ ],
+ "grid:saitai": [
+  "Southern Bus Terminal",
+  "Sai Tai",
+  "bus terminal"
+ ],
+ "grid:krabibus": [
+  "Krabi"
+ ],
+ "grid:aonang": [
+  "Ao Nang",
+  "Aonang"
+ ],
+ "grid:railay": [
+  "Railay",
+  "Railei",
+  "Phra Nang"
+ ],
+ "grid:railayE": [
+  "Railay",
+  "Railei"
+ ],
+ "grid:poda": [
+  "Poda",
+  "Chicken Island",
+  "Ko Kai",
+  "Tup"
+ ],
+ "grid:nopparat": [
+  "Nopparat",
+  "Noppharat"
+ ],
+ "grid:kyn": [
+  "Yao Noi"
+ ],
+ "grid:hong": [
+  "Hong"
+ ],
+ "grid:kyy": [
+  "Yao Yai"
+ ],
+ "grid:bangrong": [
+  "Phang Nga",
+  "Phang-Nga",
+  "Phangnga",
+  "Bang Rong"
+ ],
+ "grid:naiharn": [
+  "Nai Harn",
+  "Nai Han",
+  "Naiharn"
+ ],
+ "grid:oldtown": [
+  "Phuket Town",
+  "Phuket Old Town",
+  "Phuket City",
+  "Thalang",
+  "Old Phuket",
+  "Romanee"
+ ],
+ "grid:khaorang": [
+  "Khao Rang",
+  "Phuket Town",
+  "Phuket City"
+ ],
+ "grid:hkt": [
+  "Phuket International Airport",
+  "Phuket Airport",
+  "Mai Khao"
+ ],
+ "grid:blr": [
+  "Bangalore",
+  "Bengaluru",
+  "Vidhana"
+ ],
+ "grid:samet": [
+  "Samet Nangshe",
+  "Phang Nga",
+  "Phang-Nga"
+ ],
+ "grid:jbond": [
+  "James Bond",
+  "Ko Tapu",
+  "Khao Phing Kan",
+  "Phing Kan"
+ ],
+ "grid:panyee": [
+  "Panyee",
+  "Panyi",
+  "Panyi"
+ ],
+ "grid:promthep": [
+  "Promthep",
+  "Phromthep",
+  "Prom Thep"
+ ],
+ "grid:tiger": [
+  "Tiger Cave",
+  "Tham Suea",
+  "Tham Sua"
+ ]
+}
